@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/bt_connect"
+        android:icon="@drawable/baseline_bluetooth_24"
+        android:title="@string/connect_to_bluetooth"
+        app:showAsAction="ifRoom"
+        />
+
+</menu>
